@@ -84,6 +84,20 @@
       "eng": "monkey",
       "kor": "원숭이",
       "isDone": true
+    },
+    {
+      "id": "61cb",
+      "day": "5",
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "isDone": false
+    },
+    {
+      "id": "4d1d",
+      "day": "4",
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
     }
   ]
 }
