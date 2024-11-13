@@ -4,4 +4,4 @@ export default function World() {
             World!
         </h3>
     );
-};
+}

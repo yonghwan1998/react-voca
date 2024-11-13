@@ -4,4 +4,4 @@ export default function Welcome() {
             Welcome
         </h2>
     );
-};
+}
